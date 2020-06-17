@@ -1,0 +1,10 @@
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Chromatic number (ind 1.3)\Chromatic number (ind 1.3)\bin\Debug\Chromatic number (ind 1.3).exe.config
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Chromatic number (ind 1.3)\Chromatic number (ind 1.3)\bin\Debug\Chromatic number (ind 1.3).exe
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Chromatic number (ind 1.3)\Chromatic number (ind 1.3)\bin\Debug\Chromatic number (ind 1.3).pdb
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Chromatic number (ind 1.3)\Chromatic number (ind 1.3)\obj\Debug\Chromatic number (ind 1.3).csprojAssemblyReference.cache
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Chromatic number (ind 1.3)\Chromatic number (ind 1.3)\obj\Debug\Chromatic_number__ind_1._3_.Form1.resources
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Chromatic number (ind 1.3)\Chromatic number (ind 1.3)\obj\Debug\Chromatic_number__ind_1._3_.Properties.Resources.resources
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Chromatic number (ind 1.3)\Chromatic number (ind 1.3)\obj\Debug\Chromatic number (ind 1.3).csproj.GenerateResource.cache
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Chromatic number (ind 1.3)\Chromatic number (ind 1.3)\obj\Debug\Chromatic number (ind 1.3).csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Chromatic number (ind 1.3)\Chromatic number (ind 1.3)\obj\Debug\Chromatic number (ind 1.3).exe
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Chromatic number (ind 1.3)\Chromatic number (ind 1.3)\obj\Debug\Chromatic number (ind 1.3).pdb

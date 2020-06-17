@@ -1,0 +1,10 @@
+D:\Sharp\1.1\1.1\bin\Debug\Number of spanning trees (ind 1.1).exe.config
+D:\Sharp\1.1\1.1\bin\Debug\Number of spanning trees (ind 1.1).exe
+D:\Sharp\1.1\1.1\bin\Debug\Number of spanning trees (ind 1.1).pdb
+D:\Sharp\1.1\1.1\obj\Debug\1.1.csprojAssemblyReference.cache
+D:\Sharp\1.1\1.1\obj\Debug\Number_of_spanning_trees__ind_1._1_.Form1.resources
+D:\Sharp\1.1\1.1\obj\Debug\Number_of_spanning_trees__ind_1._1_.Properties.Resources.resources
+D:\Sharp\1.1\1.1\obj\Debug\1.1.csproj.GenerateResource.cache
+D:\Sharp\1.1\1.1\obj\Debug\1.1.csproj.CoreCompileInputs.cache
+D:\Sharp\1.1\1.1\obj\Debug\Number of spanning trees (ind 1.1).exe
+D:\Sharp\1.1\1.1\obj\Debug\Number of spanning trees (ind 1.1).pdb
