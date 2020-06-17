@@ -1,0 +1,10 @@
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Number of spanning trees (ind 1.1)\Number of spanning trees (ind 1.1)\bin\Debug\Number of spanning trees (ind 1.1).exe.config
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Number of spanning trees (ind 1.1)\Number of spanning trees (ind 1.1)\bin\Debug\Number of spanning trees (ind 1.1).exe
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Number of spanning trees (ind 1.1)\Number of spanning trees (ind 1.1)\bin\Debug\Number of spanning trees (ind 1.1).pdb
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Number of spanning trees (ind 1.1)\Number of spanning trees (ind 1.1)\obj\Debug\Number of spanning trees (ind 1.1).csprojAssemblyReference.cache
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Number of spanning trees (ind 1.1)\Number of spanning trees (ind 1.1)\obj\Debug\Number_of_spanning_trees__ind_1._1_.Form1.resources
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Number of spanning trees (ind 1.1)\Number of spanning trees (ind 1.1)\obj\Debug\Number_of_spanning_trees__ind_1._1_.Properties.Resources.resources
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Number of spanning trees (ind 1.1)\Number of spanning trees (ind 1.1)\obj\Debug\Number of spanning trees (ind 1.1).csproj.GenerateResource.cache
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Number of spanning trees (ind 1.1)\Number of spanning trees (ind 1.1)\obj\Debug\Number of spanning trees (ind 1.1).csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Number of spanning trees (ind 1.1)\Number of spanning trees (ind 1.1)\obj\Debug\Number of spanning trees (ind 1.1).exe
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Number of spanning trees (ind 1.1)\Number of spanning trees (ind 1.1)\obj\Debug\Number of spanning trees (ind 1.1).pdb

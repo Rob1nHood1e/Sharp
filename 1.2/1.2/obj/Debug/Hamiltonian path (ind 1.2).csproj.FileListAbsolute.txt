@@ -1,0 +1,10 @@
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Hamiltonian path (ind 1.2)\Hamiltonian path (ind 1.2)\bin\Debug\Hamiltonian path (ind 1.2).exe.config
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Hamiltonian path (ind 1.2)\Hamiltonian path (ind 1.2)\bin\Debug\Hamiltonian path (ind 1.2).exe
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Hamiltonian path (ind 1.2)\Hamiltonian path (ind 1.2)\bin\Debug\Hamiltonian path (ind 1.2).pdb
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Hamiltonian path (ind 1.2)\Hamiltonian path (ind 1.2)\obj\Debug\Hamiltonian path (ind 1.2).csprojAssemblyReference.cache
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Hamiltonian path (ind 1.2)\Hamiltonian path (ind 1.2)\obj\Debug\Hamiltonian_path__ind_1._2_.Form1.resources
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Hamiltonian path (ind 1.2)\Hamiltonian path (ind 1.2)\obj\Debug\Hamiltonian_path__ind_1._2_.Properties.Resources.resources
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Hamiltonian path (ind 1.2)\Hamiltonian path (ind 1.2)\obj\Debug\Hamiltonian path (ind 1.2).csproj.GenerateResource.cache
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Hamiltonian path (ind 1.2)\Hamiltonian path (ind 1.2)\obj\Debug\Hamiltonian path (ind 1.2).csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Hamiltonian path (ind 1.2)\Hamiltonian path (ind 1.2)\obj\Debug\Hamiltonian path (ind 1.2).exe
+C:\Users\Leo\Desktop\не открывать\Designing-Algorithms-and-Data-Structures\Hamiltonian path (ind 1.2)\Hamiltonian path (ind 1.2)\obj\Debug\Hamiltonian path (ind 1.2).pdb
