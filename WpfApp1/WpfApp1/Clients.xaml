@@ -3,9 +3,9 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:WpfApp1"
+        xmlns:local="clr-namespace:WpfApp1" xmlns:valRule="clr-namespace:WpfApp1.Validation"
         mc:Ignorable="d"
-        Title="Клиенты" Loaded="Window_Loaded">
+        Title="Клиенты">
     <Window.Resources>
         <Style TargetType="Button">
             <Setter Property="Margin" Value="20 8 20 8" />
@@ -13,22 +13,54 @@
             <Setter Property="Height" Value="30" />
         </Style>
     </Window.Resources>
-    <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="*" />
-            <RowDefinition Height="Auto" />
-        </Grid.RowDefinitions>
-        <DataGrid AutoGenerateColumns="False" x:Name="clientsGrid">
-            <DataGrid.Columns>
-                <DataGridTextColumn Binding="{Binding FullName}" Header="ФИО" Width="120"/>
-                <DataGridTextColumn Binding="{Binding PassID}" Header="Номер Паспорта" Width="125"/>
-                <DataGridTextColumn Binding="{Binding Debt}" Header="Задолженость" Width="80"/>
-            </DataGrid.Columns>
-        </DataGrid>
+    <ScrollViewer>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <DataGrid AutoGenerateColumns="False" x:Name="clientsGrid">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ФИО" Width="200">
+                        <DataGridTextColumn.Binding >
+                            <Binding Path="FullName" NotifyOnValidationError = "True" >
+                                <Binding.ValidationRules>
+                                    <valRule:IsEmpty ValidatesOnTargetUpdated="True"/>
+                                </Binding.ValidationRules>
+                            </Binding>
+                        </DataGridTextColumn.Binding>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Header="Номер Паспорта" Width="200">
+                        <DataGridTextColumn.Binding>
+                            <Binding Path="PassID" NotifyOnValidationError = "True">
+                                <Binding.ValidationRules>
+                                    <valRule:IsEmpty ValidatesOnTargetUpdated="True"/>
+                                </Binding.ValidationRules>
+                            </Binding>
+                        </DataGridTextColumn.Binding>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Header="Задолженность" Width="200">
+                        <DataGridTextColumn.Binding>
+                            <Binding Path="Debt" NotifyOnValidationError = "True">
+                                <Binding.ValidationRules>
+                                    <valRule:IsEmpty ValidatesOnTargetUpdated="True"/>
+                                </Binding.ValidationRules>
+                            </Binding>
+                        </DataGridTextColumn.Binding>
+                    </DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+            <Popup x:Name="validation" StaysOpen="True" Placement="Mouse" MaxWidth="180" AllowsTransparency="True"  >
+                <TextBlock TextWrapping="Wrap" Width="180" Background="LightPink" Opacity="0.8" >
+                                    Некорректная запись
+                </TextBlock>
+            </Popup>
 
-        <StackPanel HorizontalAlignment="Center"  Grid.Row="1" Orientation="Horizontal">
-            <Button x:Name="updateButton" Content="Обновить" Click="updateButton_Click" />
-            <Button x:Name="deleteButton" Content="Удалить" Click="deleteButton_Click" />
-        </StackPanel>
-    </Grid>
+            <StackPanel HorizontalAlignment="Center"  Grid.Row="1" Orientation="Horizontal">
+                <Button x:Name="updateButton" Content="Обновить" Click="updateButton_Click"/>
+                <Button x:Name="deleteButton" Content="Удалить" Click="deleteButton_Click" />
+            </StackPanel>
+
+        </Grid>
+    </ScrollViewer>
 </Window>

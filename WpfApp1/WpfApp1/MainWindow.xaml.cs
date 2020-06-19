@@ -112,5 +112,11 @@ namespace WpfApp1
         {
             popup1.IsOpen = true;
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            Req r = new Req();
+            r.Show();
+        }
     }
 }

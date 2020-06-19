@@ -53,7 +53,7 @@
     <Grid>
 
         <Border Width="auto" Height="auto"
-                CornerRadius="0,30,0,30">
+                CornerRadius="0,0,0,30"  BorderThickness="3" BorderBrush="Green">
             <Border.Background>
                 <LinearGradientBrush>
                     <GradientBrush.GradientStops>
@@ -99,7 +99,7 @@
                                 </ToolTip>
                             </Button.ToolTip>
                         </Button>
-                        <Button Content="Заявки" Style = "{DynamicResource ButtonStyle}" Click="Button_Click1" Margin="0,0,0,5"/>
+                        <Button Content="Заявки" Style = "{DynamicResource ButtonStyle}" Click="Button_Click_1" Margin="0,0,0,5"/>
                         <Popup x:Name="popup1" StaysOpen="False" Placement="Mouse" MaxWidth="180" AllowsTransparency="True"  >
                             <TextBlock TextWrapping="Wrap" Width="180" Background="LightPink" Opacity="0.8" >
                                      WIP
